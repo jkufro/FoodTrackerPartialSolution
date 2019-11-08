@@ -1,12 +1,11 @@
 {
   "MiniTest": {
     "coverage": {
-      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerSolution/app/helpers/application_helper.rb": [
+      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerPartialSolution/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerSolution/app/models/food.rb": [
-        1,
+      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerPartialSolution/app/models/food.rb": [
         1,
         1,
         1,
@@ -19,38 +18,38 @@
         null,
         null
       ],
-      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerSolution/app/models/application_record.rb": [
+      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerPartialSolution/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerSolution/app/mailers/application_mailer.rb": [
+      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerPartialSolution/app/mailers/application_mailer.rb": [
         0,
         0,
         0,
         0
       ],
-      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerSolution/app/jobs/application_job.rb": [
+      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerPartialSolution/app/jobs/application_job.rb": [
         0,
         0
       ],
-      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerSolution/app/controllers/application_controller.rb": [
+      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerPartialSolution/app/controllers/application_controller.rb": [
         0,
         0
       ],
-      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerSolution/app/channels/application_cable/connection.rb": [
+      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerPartialSolution/app/channels/application_cable/connection.rb": [
         0,
         0,
         0,
         0
       ],
-      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerSolution/app/channels/application_cable/channel.rb": [
+      "/Users/jkufro/Documents/Carnegie Mellon/272-gitlab-administration/FoodTrackerPartialSolution/app/channels/application_cable/channel.rb": [
         0,
         0,
         0,
         0
       ]
     },
-    "timestamp": 1573237648
+    "timestamp": 1573237867
   }
 }

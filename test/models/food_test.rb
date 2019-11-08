@@ -2,16 +2,15 @@ require 'test_helper'
 
 class FoodTest < ActiveSupport::TestCase
   context "name validation" do
-    should validate_uniqueness_of(:name)
     should validate_presence_of(:name)
   end
 
   context 'amount validation' do
-    should validate_numericality_of(:amount).is_greater_than(0)
+    should validate_numericality_of(:amount).is_greater_than_or_equal_to(0)
     should allow_value(1).for(:amount)
     should allow_value(123456789012).for(:amount)
     should allow_value(1.2345).for(:amount)
-    should_not allow_value(0).for(:amount)
+    should allow_value(0).for(:amount)
     should_not allow_value(-1).for(:amount)
     should_not allow_value(-0.0000000001).for(:amount)
   end
